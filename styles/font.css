@@ -1,0 +1,10 @@
+/* font-size : f-s */
+.f-s-72{
+    font-size: 72px;
+}
+.f-w-900{
+    font-weight: 900;
+}
+.red-txt{
+    color: red;
+}
