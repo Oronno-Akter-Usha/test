@@ -8,3 +8,7 @@
 .red-txt{
     color: red;
 }
+.red {
+    background-color: red;
+    height: 100px;
+}
